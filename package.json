@@ -1,9 +1,0 @@
-{
-  "name": "tracker-backend",
-  "version": "1.0.0",
-  "main": "server.js",
-  "dependencies": {
-    "@supabase/supabase-js": "^2.43.4",
-    "express": "^4.19.2"
-  }
-}
